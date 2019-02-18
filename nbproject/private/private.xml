@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/hournon/www/jedonne/Models/citiesMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Controllers/headerCtl.php</file>
+            <file>file:/home/hournon/www/jedonne/Controllers/registerCtl.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/categoriesMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Views/register.php</file>
+            <file>file:/home/hournon/www/jedonne/Views/add_annonce.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/rolesMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/articleStatusMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/database.php</file>
+            <file>file:/home/hournon/www/jedonne/Controllers/add_annonceCtl.php</file>
+            <file>file:/home/hournon/www/jedonne/Views/search_article.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/subCategoriesMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/___users.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/configuration.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/commentsMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Views/connexion.php</file>
+            <file>file:/home/hournon/www/jedonne/index.php</file>
+            <file>file:/home/hournon/www/jedonne/Controllers/loginCtl.php</file>
+            <file>file:/home/hournon/www/jedonne/Views/header.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/articlesMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/usersMdl.php</file>
+            <file>file:/home/hournon/www/jedonne/Models/departmentsMdl.php</file>
+        </group>
+    </open-files>
+</project-private>
